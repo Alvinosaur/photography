@@ -33,9 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://alvinosaur.github.io/photography/gallery/"  
-  - JOURNAL: "https://alvinosaur.github.io/photography/journal/"
-  - ABOUT: "https://alvinosaur.github.io/photography/about/"
+  # - GALLERY: "https://alvinosaur.github.io/photography/gallery/"
 
 # All translation keys
 translations:
